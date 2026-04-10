@@ -43,7 +43,7 @@ MODEL_CONFIGS = {
         "trust_remote_code": True,
         "model_class": "auto",
         "default_model_dir": "/workspace/fdm-40ch-qwen3",
-        "test_data": "fdm_40ch_turbo_v3_qwen3_512tok_stage4_test.jsonl",
+        "test_data": "fdm_40ch_turbo_v3_qwen3_stage4_test.jsonl",
         "output_dir": "joint_accuracy_qwen3",
     },
     "hermes3": {
