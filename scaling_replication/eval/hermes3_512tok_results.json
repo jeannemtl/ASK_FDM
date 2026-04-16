@@ -1,0 +1,10 @@
+{
+  "model": "Hermes3-3B",
+  "model_id": "prompterminal/fdm-40ch-hermes3-3b",
+  "token_budget": 512,
+  "action": 98.9,
+  "rule_meta_none": 100.0,
+  "meta": 100.0,
+  "fact": 100.0,
+  "extra": 100.0
+}
